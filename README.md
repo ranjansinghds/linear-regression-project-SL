@@ -1,5 +1,5 @@
-# E-Commerce Customer Analysis & Predictive Modeling
-## Overviews
+# 🚀 Linear Regression Project
+## 🔍 E-Commerce Customer Analysis & Predictive Modeling
 Welcome to the **E-Commerce Customer Analysis & Predictive Modeling** project! 🚀 This project explores customer behavior through data visualization and predictive modeling, helping us understand what drives customer spending. 
 
 ---
@@ -34,12 +34,12 @@ One of the strongest correlations! Customers with longer memberships tend to spe
 ### 6️⃣ Model Performance - Predicted vs. Actual
 Here, we compare our model's predictions to the actual test values. A strong **diagonal alignment** confirms our model is performing well!
 
-![Model Performance](https://github.com/27abhishek27/Linear-Regression-Project/blob/main/Linear%20Regression%20project%20png/scatterplot%20of%20the%20real%20test%20values.png)
+![Model Performance](https://github.com/ranjansinghds/linear-regression-project-SL/blob/main/Linear%20Regression%20Project%20PNG/Scatterplot%20of%20the%20real%20test%20values.png)
 
 ### 7️⃣ Histogram of Residuals
 This histogram visualizes the residuals from our linear regression model, showing how well our model fits the data. A normal distribution indicates a good model fit, whereas skewness may suggest underlying patterns the model hasn't captured.
 
-![Histogram of Residuals](https://github.com/27abhishek27/Linear-Regression-Project/blob/main/Linear%20Regression%20project%20png/histogram%20of%20the%20residuals.png)
+![Histogram of Residuals](https://github.com/ranjansinghds/linear-regression-project-SL/blob/main/Linear%20Regression%20Project%20PNG/Distribution%20of%20the%20residuals.png)
 
 ---
 
