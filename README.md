@@ -1,6 +1,6 @@
 # 🚀 Linear Regression Project
 ## 🔍 E-Commerce Customer Analysis & Predictive Modeling
-Welcome to the **E-Commerce Customer Analysis & Predictive Modeling** project! 🚀 This project explores customer behavior through data visualization and predictive modeling, helping us understand what drives customer spending. 
+Welcome to the **E-Commerce Customer Analysis & Predictive Modeling** project!  This project explores customer behavior through data visualization and predictive modeling, helping us understand what drives customer spending. 
 
 ---
 
@@ -63,7 +63,7 @@ The best decision depends on additional factors, such as customer feedback and e
 ---
 
 ## 🤖 Key Takeaways
-✅ **Length of membership is the best predictor** of yearly spending.
-✅ **Time on the app is more important than time on the website** for increasing revenue.
-✅ **Our predictive model performs well**, as shown by the residual histogram and test value scatterplot.
+✅ **Length of membership is the best predictor** of yearly spending.<br>
+✅ **Time on the app is more important than time on the website** for increasing revenue.<br>
+✅ **Our predictive model performs well**, as shown by the residual histogram and test value scatterplot.<br>
 ✅ **Focusing on customer loyalty programs and app engagement** could drive business growth.
